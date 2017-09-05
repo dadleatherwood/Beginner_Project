@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Variables
+namespace Beginner_Project
 {
     public class Person
     {

@@ -1,10 +1,11 @@
 ﻿using System;
-namespace Beginner_Project
+namespace Beginner_Project.Math
 {
     public class Calculator
     {
-        public Calculator()
+        public int Add(int a, int b)
         {
+            return a + b;
         }
     }
 }

@@ -1,10 +1,10 @@
 ﻿using System;
 namespace Beginner_Project
 {
-    public class Enums
+    public enum ShippingMethod
     {
-        public Enums()
-        {
-        }
+        RegularAirMail = 1,
+        RegisteredAirMail = 2,
+        Express = 3
     }
 }
